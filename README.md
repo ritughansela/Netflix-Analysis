@@ -9,3 +9,6 @@ Also we were able to find out the top movies with their IMBD ratings, also the d
 Target audience to specific country & content made as per rating.
 
 Movies & TV shows added over the months and years.
+
+![image](https://user-images.githubusercontent.com/105077158/217017477-5443cad4-6a43-421b-84ea-9d69846938ba.png)
+
